@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on private projects for TQS Integration Ltd.
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luangiovani)](https://github.com/luangiovani/github-readme-stats)
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api/toplangs?username=luangiovani)](https://github.com/luangiovani/github-readme-stats)
 
-<div>
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=luangiovani)](https://github.com/luangiovani/github-readme-stats"/>
-  <img height="100" src="https://github-readme-stats.vercel.app/api/toplangs/?username=luangiovani)](https://github.com/luangiovani/github-readme-stats"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
