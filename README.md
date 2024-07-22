@@ -4,7 +4,6 @@
 <div style="display: inline_block">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/?username=luangiovani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=12&layout=compact">
-  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/wakatime/?username=luangiovani&layout=compact">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LGCF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
