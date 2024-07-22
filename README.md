@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on private projects for TQS Integration Ltd.
-[![Luan's GitHub stats](https://lgcf-github-readme-stats.vercel.app/api?username=luangiovani)](https://github.com/luangiovani/github-readme-stats)
-[![Luan's GitHub stats](https://lgcf-github-readme-stats.vercel.app/api/toplangs?username=luangiovani)](https://github.com/luangiovani/github-readme-stats)
+[![Luan's GitHub stats](https://lgcf-github-readme-stats.vercel.app/api?username=luangiovani)](https://github.com/luangiovani/lgcf-github-readme-stats)
+[![Luan's GitHub stats](https://lgcf-github-readme-stats.vercel.app/api/toplangs/?username=luangiovani)](https://github.com/luangiovani/lgcf-github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LGCF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
