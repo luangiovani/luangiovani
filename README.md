@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on private projects for TQS Integration Ltd.
+- 🔭 I’m currently working
 <div style="display: inline_block">
   <!--<img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/?username=luangiovani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">-->
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=12&layout=compact">
