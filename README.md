@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on private projects for TQS Integration Ltd.
 <div style="display: inline_block">
-  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani">
+  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=20&layout=compact">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LGCF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
