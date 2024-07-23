@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working
+<p>I'm <b>Full Stack Developer</b>, deeply committed to <b>DevOps</b> principles, emphasizing collaboration between development and operations teams.</p>
+<p>Utilizing tools such as <b>Docker, Kubernetes, CI/CD pipelines, AWS, and Azure,</b> I'm experienced in existing automated software delivery and streamlining infrastructure changes.</p>
+<p>Continuous learning drives my application of DevOps best practices, ensuring rapid, reliable releases while maintaining operational efficiency and stability.</p>
+
 <div style="display: inline_block">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact">
+</div>
+<div style="display: inline_block">
+- :office: I'm currently working at Cognizant Technology Solutions Ireland
+  <br>
+- :seedling: I'm currently studying - <a href="https://cs50.harvard.edu/college/2024/fall/">Computer Science (CS50)</a>
 </div>
 <div style="display: inline_block"><br>
   ## 🛠️ Tech Stack
