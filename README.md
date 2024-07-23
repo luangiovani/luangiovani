@@ -4,11 +4,11 @@
 <div style="display: inline_block">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact">
 </div>
-## 🛠️ Tech Stack
-
-> Tools, languages, and other things that I like to work with.
-
 <div style="display: inline_block"><br>
+  ## 🛠️ Tech Stack
+
+  > Tools, languages, and other things that I like to work with.
+  <br>
   <img align="center" alt="LGCF-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="LGCF-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="LGCF-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
