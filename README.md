@@ -5,11 +5,10 @@
 <p>Continuous learning drives my application of DevOps best practices, ensuring rapid, reliable releases while maintaining operational efficiency and stability.</p>
 
 <div style="display: inline_block">
-  <img align="center" src="https://lgcf-github-readme-stats.vercel.app/api/pin/?username=luangiovani&repo=github-readme-stats&theme=buefy" />
-  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact&theme=buefy">
-  <img alt="LGCF-Languages" src="https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg">
+  <img alt="LGCF-status" src="https://lgcf-github-readme-stats.vercel.app/api?username=luangiovani&rank_icon=github&theme=buefy&include_all_commits=true&show_icons=true&hide=contribs&line_height=29" />
+  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact&theme=buefy&card_width=500">
+  <img alt="LGCF-snake" src="https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg">
 </div>
-![Snake animation](https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg)
 <div style="display: inline_block">
 - :office: I'm currently working at Cognizant Technology Solutions Ireland
   <br>
