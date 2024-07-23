@@ -2,9 +2,12 @@
 
 - 🔭 I’m currently working
 <div style="display: inline_block">
-  <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/?username=luangiovani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact">
 </div>
+## 🛠️ Tech Stack
+
+> Tools, languages, and other things that I like to work with.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="LGCF-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="LGCF-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
