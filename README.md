@@ -30,11 +30,17 @@
   <img align="center" alt="LGCF-MSSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="LGCF-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="LGCF-RabbitMQ" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+  <br><br>
   <img align="center" alt="LGCF-DotNetCore" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="LGCF-DotNet" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
   <img align="center" alt="LGCF-MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="LGCF-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="LGCF-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />  
+  <img align="center" alt="LGCF-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
+  <img align="center" alt="LGCF-Kubernetes" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />  
+  <img align="center" alt="LGCF-AzureDevOps" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" />  
+  <img align="center" alt="LGCF-Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" />  
+  <img align="center" alt="LGCF-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />          
 </div>
   
   ##
