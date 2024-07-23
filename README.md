@@ -6,8 +6,8 @@
 
 <div style="display: inline_block">
   <img alt="LGCF-Languages" src="https://lgcf-github-readme-stats.vercel.app/api/top-langs/?username=luangiovani&langs_count=8&layout=compact">
-  ![Snake animation](https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg)
 </div>
+![Snake animation](https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg)
 <div style="display: inline_block">
 - :office: I'm currently working at Cognizant Technology Solutions Ireland
   <br>
