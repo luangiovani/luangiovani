@@ -24,7 +24,7 @@
 ![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=@luangiovani\&layout=compact)
 
 <div style="display: inline_block">
-  <img alt="LGCF-waka-activity" src="https://wakatime.com/share/@luangiovani/ce63fd0b-0224-4fe3-b94d-4e8044e984ef.svg">
+  <img alt="LGCF-waka-activity" src="https://wakatime.com/share/@luangiovani/dc204097-d325-4205-9973-12342e5dabf8.svg">
 </div>
 <br>
 ## 🛠️ Tech Stack
