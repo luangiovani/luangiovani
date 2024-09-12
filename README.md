@@ -17,7 +17,7 @@
 </div>
 <br>
 <div style="display: inline_block">
-    <img alt="LGCF-wakatime" src="https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani">
+    ![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani\&layout=compact)
 </div>
 <br>
 ## 🛠️ Tech Stack
