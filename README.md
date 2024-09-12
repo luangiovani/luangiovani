@@ -16,6 +16,10 @@
   <img alt="LGCF-snake" src="https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg">
 </div>
 <br>
+<div style="display: inline_block">
+    <img alt="LGCF-wakatime" src="https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani">
+</div>
+<br>
 ## 🛠️ Tech Stack
 
   > Tools, languages, and other things that I like to work with.
