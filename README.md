@@ -16,9 +16,17 @@
   <img alt="LGCF-snake" src="https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg">
 </div>
 <br>
-https://wakatime.com/@luangiovani
+<div style="display: inline_block">
+  <a href="https://wakatime.com/@luangiovani">Luan's WakaTime Profile</a>
+</div>
+<br>
+
 ![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=@luangiovani\&layout=compact)
-<figure><embed src="https://wakatime.com/share/@luangiovani/ce63fd0b-0224-4fe3-b94d-4e8044e984ef.svg"></embed></figure>
+
+<div style="display: inline_block">
+  <figure><embed src="https://wakatime.com/share/@luangiovani/ce63fd0b-0224-4fe3-b94d-4e8044e984ef.svg"></embed></figure>
+</div>
+<br>
 ## 🛠️ Tech Stack
 
   > Tools, languages, and other things that I like to work with.
