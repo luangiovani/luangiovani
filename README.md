@@ -17,7 +17,7 @@
 </div>
 <br>
 
-![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani\&layout=compact)
+![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=@luangiovani\&layout=compact)
 
 ## 🛠️ Tech Stack
 
