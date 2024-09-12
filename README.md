@@ -17,10 +17,12 @@
 </div>
 <br>
 <div style="display: inline_block">
-  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
     ![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani\&layout=compact)
 </div>
 <br>
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+
 ## 🛠️ Tech Stack
 
   > Tools, languages, and other things that I like to work with.
