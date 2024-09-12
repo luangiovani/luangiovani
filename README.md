@@ -17,6 +17,7 @@
 </div>
 <br>
 <div style="display: inline_block">
+  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
     ![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani\&layout=compact)
 </div>
 <br>
