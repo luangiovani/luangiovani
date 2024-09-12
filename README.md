@@ -16,9 +16,8 @@
   <img alt="LGCF-snake" src="https://raw.githubusercontent.com/luangiovani/luangiovani/output/github-contribution-grid-snake-dark.svg">
 </div>
 <br>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
-<br>
 
+![Luan's WakaTime stats](https://lgcf-github-readme-stats.vercel.app/api/wakatime?username=luangiovani\&layout=compact)
 
 ## 🛠️ Tech Stack
 
