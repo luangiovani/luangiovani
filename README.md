@@ -6,8 +6,6 @@
 <br>
 <div style="display: inline_block">
 - :office: I'm currently working at Cognizant Technology Solutions Ireland
-  <br>
-- :seedling: I'm currently studying - <a href="https://cs50.harvard.edu/college/2024/fall/">Computer Science (CS50)</a> at Harvard Online
 </div>
 <br>
 <div style="display: inline_block">
