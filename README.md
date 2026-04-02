@@ -6,6 +6,7 @@
 <br>
 <div style="display: inline_block">
 - :office: I'm currently working at Fidelity Investments Ireland
+- Current contributions are only in internal GitHub Enterprise and cannot be linked here
 </div>
 <br>
 <div style="display: inline_block">
