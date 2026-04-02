@@ -5,7 +5,7 @@
 <p>Continuous learning drives my application of DevOps best practices, ensuring rapid, reliable releases while maintaining operational efficiency and stability.</p>
 <br>
 <div style="display: inline_block">
-- :office: I'm currently working at Cognizant Technology Solutions Ireland
+- :office: I'm currently working at Fidelity Investments Ireland
 </div>
 <br>
 <div style="display: inline_block">
